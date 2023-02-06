@@ -1,0 +1,25 @@
+body{
+    background-color: #d91448;
+    text-align: center;
+}
+
+form{
+    position: relative;
+    border: 1px solid #ffff;
+    border-radius: 20%;
+    margin: 0 auto;
+    width: 250px;
+    height: 220px;
+    
+}
+
+label{
+    color: #afce00;
+}
+
+label:hover{
+    color: aqua;
+}
+
+
+
